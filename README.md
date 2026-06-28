@@ -6,7 +6,7 @@
 <!-- ── HERO BANNER ──────────────────────────────────────────── -->
 <!-- Replace the src below with your actual hosted banner image -->
 <img
-src="./banner.png"
+src="./Banner.png"
 width="100%"
 alt=""
 />
