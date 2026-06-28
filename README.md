@@ -5,7 +5,7 @@
 <div align="center">
 
 <img
-  src="./banner.png"
+  src="./Banner.png"
   width="100%"
   alt="Madhurjya Kakati — GitHub Banner"
 />
@@ -174,25 +174,25 @@ Designed and implemented a custom encryption mechanism from scratch — tracing 
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td align="center" width="180" style="padding: 20px;">
-<img src="https://img.shields.io/badge/🔐_Cryptography-0a1628?style=for-the-badge&logoColor=58a6ff"/>
+<img src="https://img.shields.io/badge/_Cryptography-0a1628?style=for-the-badge&logoColor=58a6ff"/>
 <br/><br/>
 <sub>Stress-testing cipher constructions</sub>
 </td>
 <td width="20"></td>
 <td align="center" width="180" style="padding: 20px;">
-<img src="https://img.shields.io/badge/📊_Data-0a1628?style=for-the-badge&logoColor=58a6ff"/>
+<img src="https://img.shields.io/badge/_Data-0a1628?style=for-the-badge&logoColor=58a6ff"/>
 <br/><br/>
 <sub>Building a data visualization portfolio</sub>
 </td>
 <td width="20"></td>
 <td align="center" width="180" style="padding: 20px;">
-<img src="https://img.shields.io/badge/🎨_Design-0a1628?style=for-the-badge&logoColor=58a6ff"/>
+<img src="https://img.shields.io/badge/_Design-0a1628?style=for-the-badge&logoColor=58a6ff"/>
 <br/><br/>
 <sub>Publishing UI/UX work on Behance</sub>
 </td>
 <td width="20"></td>
 <td align="center" width="180" style="padding: 20px;">
-<img src="https://img.shields.io/badge/📖_Protocols-0a1628?style=for-the-badge&logoColor=58a6ff"/>
+<img src="https://img.shields.io/badge/_Protocols-0a1628?style=for-the-badge&logoColor=58a6ff"/>
 <br/><br/>
 <sub>Studying modern cryptographic protocols</sub>
 </td>
