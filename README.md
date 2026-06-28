@@ -6,7 +6,7 @@
 <!-- ── HERO BANNER ──────────────────────────────────────────── -->
 <!-- Replace the src below with your actual hosted banner image -->
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a1628,100:0D1117&height=200&section=header&text=&fontColor=58a6ff&fontSize=0"
+src="./banner.png"
 width="100%"
 alt=""
 />
